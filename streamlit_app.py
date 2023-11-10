@@ -50,7 +50,7 @@ streamlit.write('The user entered ', fruit_choice)
 # write your own comment - what does this do?
 
 # Dont run anything from here onwards
-streamlit.stop()
+# streamlit.stop()
 
 # my_data_row = my_cur.fetchone()
 streamlit.header("The fruit load list contains:")
